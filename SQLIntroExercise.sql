@@ -1,6 +1,7 @@
 -- find all products
-SELECT * FROM Products
+SELECT * FROM Products;
 -- find all products that cost $1400
+SELECT * FROM Products
 WHERE Price = 1400.00;
 -- find all products that cost $11.99 or $13.99
 SELECT * FROM Products
